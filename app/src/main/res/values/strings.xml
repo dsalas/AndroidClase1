@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Clase1</string>
+    <string name="main_activity_title">Main activity</string>
+    <string name="test_activity_title">Pause main activity</string>
+    <string name="data_activity_title">Data activity</string>
+    <string name="edit_text_placeholder">Ingresa un texto</string>
+    <string name="sendDataButtonText">Send Data</string>
+    <string name="text_view_default_data">None</string>
+    <string name="no_click_text">User never clicked.</string>
+    <string name="click_text_format">User clicked %1$d times.</string>
+</resources>
