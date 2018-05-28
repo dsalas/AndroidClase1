@@ -12,4 +12,6 @@ public class TestActivity extends AppCompatActivity {
         setContentView(R.layout.activity_test);
         setTitle(R.string.test_activity_title);
     }
+
+
 }
